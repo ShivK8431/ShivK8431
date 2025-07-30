@@ -52,17 +52,28 @@ Driven by a continuous learning, inovation and improvement mindset, I thrive in 
 
 ---
 
+### 🧗‍♂️ Hobbies & Interests
+
+- 💪 Calisthenics & Bodyweight Training  
+- 🏃 Running & Jump Rope  
+- 🏸 Playing Badminton  
+- 🧗‍♂️ Climbing and bouldering 
+- 🌄 Trekking Adventures and Hiking in the wild.  
+- 🌿 Nature Enthusiast & Outdoor Explorer  
+- 🏎️ Go-Karting & Speed and adrenaline addict.
+ 
+---
+
 ### 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivkumar-v-0660a41a9/)
 - 📫 Email: shivkumarvrd@gmail.com  
 - 🌐 GitHub: *https://github.com/ShivK8431/ShivK8431*
-- <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/daadef3f-083a-425e-a9af-3efbba4be7bc" />
-Instagram: https://www.instagram.com/_shivk_/
+- ✨ Instagram: https://www.instagram.com/_shivk_/
 
 ---
 
 ### ✨ Fun Fact
 
-> I automate things so I can enjoy my fav food while my pipelines deploy 🚀
+> I Love eating, so i decided to automate things so I can enjoy my fav food while my pipelines deploy 🚀
 
