@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/0377ab77-b4f0-424a-a93f-153c8a887845" /><h1 align="center">Hi 👋, I'm Shiv K</h1>
+Hi 👋, I'm Shiv K</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | CI/CD & Infrastructure Automation</h3>
 
 <p align="center">
