@@ -58,7 +58,7 @@ Driven by a continuous learning, inovation and improvement mindset, I thrive in 
 - 🏃 Running & Jump Rope  
 - 🏸 Playing Badminton  
 - 🧗‍♂️ Climbing and bouldering 
-- 🌄 Trekking Adventures and Hiking in the wild.  
+- 🌄 Short Sunrise Hikes and Adventurous Trekking in the wild.  
 - 🌿 Nature Enthusiast & Outdoor Explorer  
 - 🏎️ Go-Karting & Speed and adrenaline addict.
  
